@@ -1,3 +1,4 @@
+import java.util.ArrayList;
 public class Vezbanje {
     public static ArrayList<String> niz(String[] podaci, String text, String startOrEnd){
         if (startOrEnd.equalsIgnoreCase("starts")){
